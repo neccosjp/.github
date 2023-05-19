@@ -1,7 +1,7 @@
 ## Ticket / Issue Number
 <!-- BackLogId -->
-<!-- ref#プロジェクト名-チケット番号　でBacklogのチケットと連携します。複数チケット可 --->
-<!-- ref#PROJECT-1 --->
+<!-- backlog#プロジェクト名-チケット番号　でBacklogのチケットと連携します。複数チケット可 --->
+<!-- backlog#PROJECT-1 --->
 
 ## PRタイプ
 <!-- Pull Requestの種類を選択 -->
