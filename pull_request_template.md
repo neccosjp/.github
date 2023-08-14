@@ -33,7 +33,7 @@
 ## Check List
 <!-- 確認した事項 -->
 
-* [x] ErrorCheck
+* ErrorCheck
 
 ## Logging
 <!-- 検証時に出力したログ等 -->
