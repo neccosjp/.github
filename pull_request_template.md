@@ -25,6 +25,12 @@
 
 * fix
 
+## Important Review Files
+<!--重点的に見てほしいファイル -->
+
+* ./server/*
+* ./config/main.go
+
 ## Todo List
 <!-- やり残したこと/将来的にする予定のもの -->
 
