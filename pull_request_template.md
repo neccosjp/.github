@@ -1,7 +1,7 @@
 ## Ticket / Issue Number
-<!-- BackLogId -->
-<!-- backlog#プロジェクト名-チケット番号　でBacklogのチケットと連携します。複数チケット可 --->
-<!-- backlog#PROJECT-1 --->
+<!-- NotionのIDを入れてください -->
+<!-- PRのタイトルを[Task_ID]にするとNotion側で勝手に紐づきます -->
+[]
 
 ## PRタイプ
 <!-- Pull Requestの種類を選択 -->
